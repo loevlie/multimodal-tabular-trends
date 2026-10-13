@@ -1,0 +1,27 @@
+conference,year,title,link,image_table,text_table
+ICLR,2021,"MultiModalQA: complex question answering over text, tables and images",https://iclr.cc/virtual/2021/poster/2538,True,False
+ICLR,2023,Learning Multimodal Data Augmentation in Feature Space,https://iclr.cc/virtual/2023/poster/11438,True,True
+ICLR,2025,AnoLLM: Large Language Models for Tabular Anomaly Detection,https://iclr.cc/virtual/2025/poster/30820,False,True
+ICLR,2025,Time-to-Event Pretraining for 3D Medical Imaging,https://iclr.cc/virtual/2025/poster/27661,True,False
+ICLR,2026,Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks,https://openreview.net/forum?id=KKA59ai0x6,True,True
+ICLR,2026,Joint Adaptation of Uni-modal Foundation Models for Multi-modal Alzheimer's Disease Diagnosis,https://openreview.net/forum?id=gPTjQxC74G,True,False
+ICML,2024,CARTE: Pretraining and Transfer for Tabular Learning,https://icml.cc/virtual/2024/poster/34796,False,True
+ICML,2024,"Tabular Insights, Visual Impacts: Transferring Expertise from Tables to Images",https://icml.cc/virtual/2024/poster/32795,True,False
+ICML,2025,Cross-Modal Alignment via Variational Copula Modelling,https://icml.cc/virtual/2025/poster/46358,True,True
+ICML,2025,SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes,https://icml.cc/virtual/2025/poster/46321,False,True
+ICML,2025,CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models,https://icml.cc/virtual/2025/poster/45167,True,False
+ICML,2026,VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning,https://openreview.net/forum?id=4oZDo5v9zt,True,False
+ICML,2026,Functional Decomposition and Shapley Interactions for Interpreting Survival Models,https://openreview.net/forum?id=SldP4LGjdz,True,False
+ICML,2026,$f$-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models,https://openreview.net/forum?id=YobXoHXLS7,False,True
+ICML,2026,No Data? No Problem: Robust Vision-Tabular Learning with Missing Values,https://openreview.net/forum?id=guBK9kwmEL,True,False
+NeurIPS,2021,Benchmarking Multimodal AutoML for Tabular Data with Text Fields,https://openreview.net/forum?id=Q0zOIaec8HF,False,True
+NeurIPS,2023,INSPECT: A Multimodal Dataset for Pulmonary Embolism Diagnosis and Prognosis,https://nips.cc/virtual/2023/poster/73704,True,True
+NeurIPS,2023,EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images,https://nips.cc/virtual/2023/poster/73600,True,False
+NeurIPS,2023,Multimodal Clinical Benchmark for Emergency Care (MC-BEC): A Comprehensive Benchmark for Evaluating Foundation Models in Emergency Medicine,https://nips.cc/virtual/2023/poster/73542,False,True
+NeurIPS,2024,EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records,https://neurips.cc/virtual/2024/poster/97848,False,True
+NeurIPS,2024,HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data,https://neurips.cc/virtual/2024/poster/95829,True,False
+NeurIPS,2024,Enhancing vision-language models for medical imaging: bridging the 3D gap with innovative slice selection,https://neurips.cc/virtual/2024/poster/97755,True,True
+NeurIPS,2024,Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation,https://neurips.cc/virtual/2024/poster/93285,True,False
+NeurIPS,2025,Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment,https://openreview.net/forum?id=2afhRWVb6p,True,False
+NeurIPS,2025,Struct-Bench: A Benchmark for Differentially Private Structured Text Generation,https://openreview.net/forum?id=59vXWteYuh,False,True
+NeurIPS,2025,TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields,https://openreview.net/forum?id=FrXHdcTEzE,False,True

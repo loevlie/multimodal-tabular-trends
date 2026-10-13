@@ -1,0 +1,9 @@
+year,conferences,accepted_papers,tabular_papers,image_table,text_table_only,multimodal_tabular,percent_of_tabular
+2019,ICLR + ICML + NeurIPS,2702,1,0,0,0,0.0
+2020,ICLR + ICML + NeurIPS,3670,10,0,0,0,0.0
+2021,ICLR + ICML + NeurIPS,4551,31,1,1,2,6.5
+2022,ICLR + ICML + NeurIPS,5162,42,0,0,0,0.0
+2023,ICLR + ICML + NeurIPS,7024,63,3,1,4,6.3
+2024,ICLR + ICML + NeurIPS,9388,91,4,2,6,6.6
+2025,ICLR + ICML + NeurIPS,12857,107,4,4,8,7.5
+2026,ICLR + ICML,11699,103,5,1,6,5.8
